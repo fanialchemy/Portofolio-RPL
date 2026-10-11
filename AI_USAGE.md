@@ -13,9 +13,8 @@ Mengarang temuan atau bukti, menulis analisis tanpa memakai
 sistemnya, dan mengolah screenshot berisi data pribadi.
 
 ## Verifikasi
-Saya membandingkan hasil revisi kalimat dengan draf awal, memastikan
-makna tetap sesuai pengamatan saya pribadi, dan memeriksa nomor gambar
-dengan lampiran. Contoh format repository saya baca dan sesuaikan
+Saya membandingkan hasil revisi perbaikan kalimat dengan draf awal, memastikan
+makna tetap sesuai pengamatan saya pribadi. Contoh format repository saya baca dan sesuaikan
 dengan lembar tugas sebelum dipakai.
 
 ## Data yang tidak dikirim ke AI
