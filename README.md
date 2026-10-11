@@ -11,9 +11,9 @@ Perangkat Lunak, yaitu analisis Shopee Seller Center
 dari sudut pandang penjual.
 
 ## Isi Repository
+- LICENSE     : lisensi repository
 - KOMITMEN.md : komitmen kerja profesional
 - AI_USAGE.md : pernyataan penggunaan AI
-- LICENSE     : lisensi repository
 
 ## Catatan
 Seluruh temuan dan bukti berasal dari pengamatan pribadi.
