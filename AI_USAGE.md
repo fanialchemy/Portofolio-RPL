@@ -14,7 +14,9 @@ sistemnya, dan mengolah screenshot berisi data pribadi.
 
 ## Verifikasi
 Saya membandingkan hasil revisi perbaikan kalimat dengan draf awal, memastikan
-makna tetap sesuai pengamatan saya pribadi. Contoh format repository saya baca dan sesuaikan
+makna tetap sesuai pengamatan saya pribadi.
+Data yang saya kirim ke AI hanya teks kalimat analisis, tanpa screenshot atau data pribadi.
+Contoh format repository saya baca dan sesuaikan
 dengan lembar tugas sebelum dipakai.
 
 ## Data yang tidak dikirim ke AI
